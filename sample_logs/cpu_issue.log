@@ -1,0 +1,4 @@
+[CRITICAL] CPU usage reached 98%
+nginx worker process consuming excessive memory
+worker timeout detected
+service instability observed
